@@ -51,7 +51,7 @@ const Footer = () => {
       </div>
       <div className="footer-copyright navTwo">
         <div className="container">
-          &copy; Copyright | eventRaft Assignment
+          &copy; Copyright | RaftLabs Assignment
           <a className="grey-text text-lighten-4 right" href="#!">
             ~Developed By Wasif Ali
           </a>
