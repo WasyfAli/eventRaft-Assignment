@@ -15,7 +15,7 @@ class NavBar extends Component {
         <nav className="nav-fixed nav">
           <div className="nav-wrapper">
             <Link to="/" className="brand-logo">
-              eventRaft
+              RaftLabs
             </Link>
             <Link to="" data-target="mobile-demo" className="sidenav-trigger">
               <i className="material-icons">menu</i>
