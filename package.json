@@ -1,7 +1,7 @@
 {
   "name": "raft_lab_assignment",
   "version": "1.0.0",
-  "description": "Assignment of eventRaft",
+  "description": "Assignment of Raftlab",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
