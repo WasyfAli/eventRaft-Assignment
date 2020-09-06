@@ -1,0 +1,14 @@
+.nav {
+  background-color: #00b3b3 !important;
+}
+
+.navTwo {
+  background-color: #008080 !important;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
